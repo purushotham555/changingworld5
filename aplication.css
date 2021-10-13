@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.total-first-part {
+    background-image: url(https://previews.123rf.com/images/nathanael005/nathanael0051801/nathanael005180100153/93788656-a-spotlight-vector-illustration-on-plain-background-.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
