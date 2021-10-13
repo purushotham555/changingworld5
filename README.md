@@ -1,1 +1,23 @@
-# changingworld5
+# changingworld5x-special/nautilus-clipboard
+copy
+file:///home/arjun/Desktop/onlineweb/aplication.css
+file:///home/arjun/Desktop/onlineweb/aplication.html
+file:///home/arjun/Desktop/onlineweb/app.html
+file:///home/arjun/Desktop/onlineweb/comedy.css
+file:///home/arjun/Desktop/onlineweb/comedy.html
+file:///home/arjun/Desktop/onlineweb/create.css
+file:///home/arjun/Desktop/onlineweb/create.html
+file:///home/arjun/Desktop/onlineweb/double.css
+file:///home/arjun/Desktop/onlineweb/double.html
+file:///home/arjun/Desktop/onlineweb/favicon-16x16.png
+file:///home/arjun/Desktop/onlineweb/first.css
+file:///home/arjun/Desktop/onlineweb/game.html
+file:///home/arjun/Desktop/onlineweb/hello.php
+file:///home/arjun/Desktop/onlineweb/index.css
+file:///home/arjun/Desktop/onlineweb/index.html
+file:///home/arjun/Desktop/onlineweb/index.php
+file:///home/arjun/Desktop/onlineweb/login.css
+file:///home/arjun/Desktop/onlineweb/login.html
+file:///home/arjun/Desktop/onlineweb/theme.html
+file:///home/arjun/Desktop/onlineweb/webaplication.css
+file:///home/arjun/Desktop/onlineweb/webaplication.html
